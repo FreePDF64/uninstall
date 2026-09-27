@@ -1,5 +1,9 @@
 # FreePDF64 – Deinstallation
 
+**Hinweis:** Der FreePDF64 PostScript-Drucker wurde separat installiert und wird durch die Deinstallation von FreePDF64 nicht automatisch entfernt. Falls der Drucker nicht mehr benötigt wird, kann er über die Windows-Druckereinstellungen entfernt werden.
+
+---
+
 <h1 align="center">Schade, dass Sie FreePDF64 deinstalliert haben</h1>
 
 <p align="center">
