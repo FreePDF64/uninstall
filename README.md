@@ -1,6 +1,13 @@
 # FreePDF64 – Deinstallation
 
-**Hinweis:** Der FreePDF64 PostScript-Drucker wurde separat installiert und wird durch die Deinstallation von FreePDF64 nicht automatisch entfernt. Falls der Drucker nicht mehr benötigt wird, kann er über die Windows-Druckereinstellungen entfernt werden.
+## Hinweis - Was kann manuell gelöscht werden:
+
+Der FreePDF64 PostScript-Drucker wurde separat installiert und wird durch die Deinstallation von FreePDF64 nicht automatisch entfernt. Falls der Drucker nicht mehr benötigt wird, kann er über die Windows-Druckereinstellungen entfernt werden.
+
+Bei der Deinstallation wird das Installationsverzeichnis (meist "C:\FreePDF64") nicht komplett gelöscht, da dort die Ini-Datei für FreePDF64 und evtl. Logdateien liegen. Falls diese nicht für später benötigt werden, kann man das Installationsverzeichnis manuell löschen.
+
+Unter "C:\ProgramData\FreePDF64" liegen die Installations-Logdateien der FreePDF64 Postscript-Druckerinstallation. Falls diese nicht für später benötigt werden, kann man dieses Verzeichnis auch manuell löschen.
+
 
 ---
 
